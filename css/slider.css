@@ -84,7 +84,7 @@
   display: block;
   width: 8px;
   height: 24px;
-  background-color: #ffffff;
+  background-color: #202020;
   border: 3px solid #202020;
 }
 .s-type-1 .s-nav label::before {
